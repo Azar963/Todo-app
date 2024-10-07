@@ -1,5 +1,4 @@
-add a new player
-update the OS
+Edit button testupdate the OS
 pack the bag
 Clean the bag
 Fix the drawer
@@ -15,3 +14,5 @@ my new todo
 Master Python!
 hii
 how are you
+My newest todo is added
+And lastly
